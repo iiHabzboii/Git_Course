@@ -1,1 +1,3 @@
-consone.log("Hello");
+
+var msg = "Hello";
+consone.log(msg);
